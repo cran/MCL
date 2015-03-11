@@ -1,0 +1,2 @@
+importFrom("expm", "%^%")
+export(mcl)
